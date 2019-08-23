@@ -1,0 +1,12 @@
+{
+  "name": "RippleCareerParser",
+  "version": "0.0.1",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "jsdom": "*"
+  },
+  "repository": {
+  "type": "git",
+  "url": "git://github.com/dekomai/RippleCareerParser.git"
+  }
+}
